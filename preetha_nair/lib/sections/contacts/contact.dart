@@ -1,0 +1,12 @@
+import 'package:flutter/material.dart';
+import 'package:preetha_nair/sections/contacts/contactDesktop.dart';
+import 'package:responsive_builder/responsive_builder.dart';
+
+class Contact extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return ScreenTypeLayout(
+      desktop: ContactDesktop(),
+    );
+  }
+}
