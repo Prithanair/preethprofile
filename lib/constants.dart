@@ -14,7 +14,7 @@ const kSocialIcons = [
 const kSocialLinks = [
   "https://facebook.com/",
   "https://www.linkedin.com/in/preetha-k-v-08474663/",
-  "https://github.com/Prithanair/ProfileServer.git",
+  "https://github.com/Prithanair/preethprofile",
 ];
 
 // URL Launcher
