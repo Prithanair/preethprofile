@@ -1,11 +1,11 @@
 {
-    "name": "preetha_nair",
-    "short_name": "preetha_nair",
+    "name": "preetha nair",
+    "short_name": "preetha",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#212121",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A New Flutter Learning project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
